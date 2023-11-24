@@ -1,0 +1,68 @@
+/* Enhanced Custom UI for Kirka.io with Dark Theme and Dynamic Visuals */
+
+/* Text Styling */
+body {
+    font-family: Arial, sans-serif;
+    color: #CCC; /* Light grey text for better contrast on a dark background */
+    background-color: #1a1a1a; /* Dark background for the whole page */
+}
+
+/* Button Styling */
+.button {
+    background-color: #333; /* Dark grey background for buttons */
+    color: #FFF; /* White text on buttons */
+    border: 1px solid #555; /* Subtle border for buttons */
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Smooth transition for hover effects */
+}
+
+/* Button Hover Effects */
+.button:hover {
+    background-color: #4CAF50; /* Green background on hover */
+    color: #000; /* Black text on hover */
+    border-color: #4CAF50; /* Green border on hover */
+}
+
+/* Navigation Bar Styling */
+.nav-bar {
+    background-color: #222; /* Slightly lighter grey for the navigation bar */
+    overflow: hidden;
+}
+
+.nav-bar a {
+    float: left;
+    display: block;
+    color: #FFF; 
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effects */
+}
+
+/* Navigation Link Hover Effects */
+.nav-bar a:hover {
+    background-color: #555; /* Medium grey background for hover */
+    color: #FFF; /* White text on hover */
+}
+
+/* Footer Styling */
+.footer {
+    background-color: #222; /* Slightly lighter grey for the footer */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Additional Styles */
+/* Here you can add more styles for other elements such as forms, tables, etc. */
+
+/* Dynamic Visuals for Interactive Elements */
+/* Examples: adding hover effects, transitions to links, buttons, etc. */
+
+/* Add more custom styles as needed */
